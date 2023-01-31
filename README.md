@@ -1,0 +1,2 @@
+# mechack-hamzah
+learning process
